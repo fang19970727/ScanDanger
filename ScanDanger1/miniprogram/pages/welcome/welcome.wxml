@@ -1,0 +1,12 @@
+<view class="container">
+    <text class="motto">请选择难易程度</text>
+    <view catchtap="onTapJump" class="journey-container">
+        <text class="journey">低级</text>
+    </view>
+    <view catchtap="onTapJumpOne" class="journey-container">
+        <text class="journeyOne">中级</text>
+    </view>
+     <view catchtap="onTapJumpTwo" class="journey-container">
+        <text class="journeyTwo">高级</text>
+    </view>
+</view>

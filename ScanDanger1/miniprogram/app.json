@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/welcome/welcome",
+    "pages/index/index",
+    "pages/indexOne/indexOne",
+    "pages/indexTwo/indexTwo"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor":"#E6E9ED",
+    "navigationBarTitleText": "Minesweeper",
+    "navigationBarTextStyle":"black"
+  }
+}
